@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/drawable-v24/loading_shape.xml" value="0.1" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/drawable/bg_rounded.xml" value="0.2703125" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/drawable/bg_row.xml" value="0.2703125" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/drawable/ic_baseline_chevron_right_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/layout/activity_doa_tahlil.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/layout/doatahlil_row_item.xml" value="0.264" />
+        <entry key="..\:/Users/Achapasya2109/AndroidStudioProjects/DoaTahlil2/app/src/main/res/layout/nomor.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
